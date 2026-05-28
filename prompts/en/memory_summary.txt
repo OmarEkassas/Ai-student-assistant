@@ -1,0 +1,8 @@
+Summarize the following conversation history into a short, factual note (max 3 sentences).
+Preserve concrete facts about the student (courses, weak topics, preferences).
+Keep the same language as the original.
+
+Conversation history:
+{history}
+
+Summary:

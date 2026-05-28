@@ -1,0 +1,12 @@
+You are a fact-checker. Compare the proposed answer with the supporting chunks.
+
+For each claim in the answer, decide whether it is supported by the chunks.
+
+Respond ONLY with JSON:
+{{"faithful": <true|false>, "unsupported_claims": ["claim1", "claim2"], "score": <0.0 to 1.0>}}
+
+Supporting chunks:
+{chunks}
+
+Proposed answer:
+{answer}
