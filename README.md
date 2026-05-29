@@ -74,7 +74,7 @@ ai_student_assistant/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/<your-username>/ai_student_assistant.git
+git clone https://github.com/OmarEkassas/ai_student_assistant.git
 cd ai_student_assistant
 python -m venv venv
 source venv/bin/activate            # Windows: venv\Scripts\activate
